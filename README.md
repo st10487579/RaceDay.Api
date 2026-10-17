@@ -92,3 +92,5 @@ GitHub Actions is configured to restore dependencies, build the solution and run
 ## 9. Project Purpose
 
 The purpose of RaceDay is to provide a centralised system for managing race events and participant information through a Web API. It also demonstrates the use of database integration, authentication, automated testing and continuous integration in an ASP.NET Core application.
+<img width="1332" height="568" alt="2B" src="https://github.com/user-attachments/assets/0aa78364-bb66-4f9c-a8eb-8dae006bbc11" />
+<img width="1332" height="568" alt="2B - Copy" src="https://github.com/user-attachments/assets/cd21dc98-1f80-4bf7-a68f-9be612fc18cd" />
